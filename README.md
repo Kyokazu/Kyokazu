@@ -1,7 +1,6 @@
 <h1 align="center">Hi 😎, I'm Salvador Huertas</h1>
 <h3 align="center">System engineer, and currently on Back-end Software Developer on Open International </h3>
 
-- 🌱 I’m currently learning **MEAN stack**
 
 
 <h3 align="left">Languages and Tools:</h3>
