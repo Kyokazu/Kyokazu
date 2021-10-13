@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😎, I'm Salvador Huertas</h1>
-<h3 align="center">System engineer, and currently on Open International P&T Seedbeed + Fedesoft MEAN fullstack bootcamp.</h3>
+<h3 align="center">System engineer, and currently on Back-end Software Developer on Open International </h3>
 
 - 🌱 I’m currently learning **MEAN stack**
 
