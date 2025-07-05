@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😎, I'm Salvador Huertas</h1>
+<h1 align="center">Juan Manuel Salvador Huertas Plata</h1>
 <h3 align="center">System engineer | Back-end Software Developer </h3>
 
 
